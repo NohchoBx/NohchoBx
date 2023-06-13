@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Oumar</h1>
 <h3 align="center">Trying to build something useful</h3>
-<img align="right" alt="Coding" width="400" src="https://banner2.cleanpng.com/20180530/jah/kisspng-github-computer-software-programmer-asus-rog-zephy-5b0e515febe1f9.2915524715276649919662.jpg">
+
 
 - 🔭 I’m currently working on **MoviesApp-Jetpack**
 
