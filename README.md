@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose, Kotlin, Flutter**
 
-- 💬 Ask me about **Android, Flutter**
+- 💬 Ask me about **Android, Flutter, Spring**
 
 - 📫 How to reach me **nohchodev@gmail.com**
 
