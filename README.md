@@ -1,13 +1,11 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Oumar</h1>
+<h1 align="center">Hi 👋</h1>
 
-- 🔭 I’m currently working on **MoviesApp-Jetpack**
+- 🔭 I’m currently working on **Dictionary App**
 
-- 🌱 I’m currently learning **Jetpack Compose, Kotlin, Flutter**
+- 🌱 I’m currently learning **Flutter, Python**
 
-- 💬 Ask me about **Android, Flutter, Spring**
-
-- 📫 How to reach me **nohchodev@gmail.com**
+- 💬 Ask me about **Android, Flutter**
 
 <p align="left">
 </p>
