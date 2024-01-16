@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Dictionary App**
 
-- 🌱 I’m currently learning **Flutter, Python**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Android, Flutter**
+- 💬 Ask me about **Flutter, Android**
 
 <p align="left">
 </p>
