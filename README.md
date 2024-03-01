@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-- 🔭 I’m currently working on **Dictionary App**
+- 🔭 Author of an Dictionary App in Chechen language called <a href="https://onelink.to/qfsdb3">**Бекалахь**</a>
 
 - 🌱 I’m currently learning **Python**
 
