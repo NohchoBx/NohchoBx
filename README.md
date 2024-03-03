@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Welcome 👋</h1>
 
+- 💻 Developer Consultant at Vercorro
+  
 - 🔭 Author of an Dictionary App in Chechen language called <a href="https://onelink.to/qfsdb3">**Бекалахь**</a>
 
 - 🌱 I’m currently learning **Python**
