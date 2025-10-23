@@ -1,6 +1,6 @@
 <h1 align="center">Welcome 👋</h1>
 
-- 💻 Developer Consultant at Vercorro
+- 💻 Developer Consultant at Fuse Solutions
   
 - 🔭 Author of an Dictionary App in Chechen language called <a href="https://onelink.to/qfsdb3">**Бекалахь**</a>
 
