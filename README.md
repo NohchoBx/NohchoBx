@@ -2,8 +2,6 @@
 
 - 💻 Developer Consultant at Fuse Solutions
   
-- 🔭 Author of an Dictionary App in Chechen language called <a href="https://onelink.to/qfsdb3">**Бекалахь**</a>
-
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Flutter, Android**
